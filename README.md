@@ -6,16 +6,6 @@ we use the main file from web site files to acess admin path
 ![image](https://github.com/user-attachments/assets/33f62f52-b7e1-4b1a-aefd-aaa7a5b2c197)
 
 then we use file default_pass_for_services_unhash.txt it will be in files to test password from it to get the admin pass using burip suite
-Access the Login Page:
-Open the login page and enter the username.
-
-Set Up Burp Suite:intercept
-Launch Burp Suite and configure it to and analyze network traffic.
-
-Initiate the Password Attack:
-Use Burp Suite's Intruder feature to send a list of potential passwords (a dictionary or wordlist) to the server.
-Monitor the responses from the server to identify the correct password based on a unique response or status code.
-
 ![image](https://github.com/user-attachments/assets/d358f9a9-698a-4a72-9f5c-2fe815662544)
 
 . We will be attempting to guess the password for this account. Then, for the password parameter
