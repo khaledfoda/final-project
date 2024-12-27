@@ -6,8 +6,8 @@ we use the main file from web site files to acess admin path
 ![image](https://github.com/user-attachments/assets/33f62f52-b7e1-4b1a-aefd-aaa7a5b2c197)
 
 then we use file default_pass_for_services_unhash.txt it will be in files to test password from it to get the admin pass using burip suite
-![image](https://github.com/user-attachments/assets/d358f9a9-698a-4a72-9f5c-2fe815662544)
 
+![image](https://github.com/user-attachments/assets/d358f9a9-698a-4a72-9f5c-2fe815662544)
 . We will be attempting to guess the password for this account. Then, for the password parameter
 ![image](https://github.com/user-attachments/assets/796cb971-c4e1-4736-bf7c-3bedfb7b9408)
 and we get pass of admin :admin123
